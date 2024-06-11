@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KimThe8th
-- 👀 I’m interested in programming and development of applications and websites < br />
+- 👀 I’m interested in programming and development of applications and websites.
 -😁 Done with html and css
 - 🌱 I’m currently learning on php.
 - 💞️ I’m looking forward to collaboration on all matters pertaining coding
