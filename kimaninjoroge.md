@@ -1,0 +1,5 @@
+As a driven Software Engineering student, I have cultivated a comprehensive skill set across a wide array of disciplines. I have a solid foundation in System Analysis and Design, and have honed my programming skills in Object-Oriented Programming with a focus on Visual Basic and C Programming. My proficiency extends to Web/Client-Side Programming, where I create dynamic and user-friendly web applications. Additionally, I have tackled complex mathematical concepts through Differential and Integral Calculus, ensuring a strong analytical background.
+
+I have explored the intricacies of Wireless Technology, enabling me to understand and implement modern communication systems. Through my coursework in Software Engineering Requirements, I have developed the capability to gather, analyze, and document user requirements effectively. My understanding of Digital Logic equips me with the skills to design and analyze digital circuits.
+
+With this diverse skill set, I am well-prepared to contribute to innovative software solutions and tackle challenging projects in the tech industry. 
